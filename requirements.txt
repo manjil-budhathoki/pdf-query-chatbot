@@ -5,7 +5,8 @@ langdetect
 python-dotenv
 requests
 streamlit-extras
-langchain
+pydantic==1.10.13
+langchain==0.0.303  # Ensure compatibility
 sentence-transformers
 faiss-cpu
 googletrans==4.0.0-rc1
