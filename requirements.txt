@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+npttf2utf
+langdetect
+python-dotenv
+requests
+streamlit-extras
+langchain
+sentence-transformers
+faiss-cpu
+googletrans==4.0.0-rc1
