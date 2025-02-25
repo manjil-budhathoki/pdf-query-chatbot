@@ -19,7 +19,7 @@ A **PDF-based AI chatbot** that allows users to **upload Nepali PDFs**, extract 
 ## 🚀 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/pdf-query-chatbot.git
+git clone https://github.com/manjil-budhathoki/pdf-query-chatbot
 cd pdf-query-chatbot
 ```
 
