@@ -71,11 +71,8 @@ streamlit run Main.py
 ├── 📜 .env                 # Stores API keys (not tracked in GitHub)
 ├── 📜 Main.py              # Streamlit chatbot interface
 ├── 📜 map.json             # Legacy Nepali font mapping
-├── 📜 Micr.pkl             # FAISS vector database for embeddings
 ├── 📜 README.md            # Documentation
 ├── 📜 requirements.txt      # List of dependencies
-├── 📜 PDF-Reader.py        # (Optional) Separate PDF processing script
-├── 📜 Microsoft Word - ...  # Sample PDF file for testing
 ```
 
 ---
